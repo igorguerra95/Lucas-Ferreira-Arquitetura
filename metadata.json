@@ -1,0 +1,6 @@
+{
+  "name": "Lucas Ferreira Arquitetura",
+  "description": "Estúdio de arquitetura autoral e design espacial. Projetos residenciais de alto padrão, espaços comerciais e interiores com rigor estético.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
